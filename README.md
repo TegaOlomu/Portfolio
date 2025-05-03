@@ -1,5 +1,5 @@
-# Otega-Olomu
-# 👋 Hey there, I'm Otega!
+# Tega-Olomu
+# 👋 Hey there, I'm Tega!
 ## About Me
 🔐 **SOC-Focused Cybersecurity Analyst**  
 🕵️‍♂️ Passionate about threat detection, incident response, and all things blue team.  
