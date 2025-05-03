@@ -1,9 +1,12 @@
 # Tega-Olomu
 # 👋 Hey there, I'm Tega!
 ## About Me
-🔐 **SOC-Focused Cybersecurity Analyst**  
-🕵️‍♂️ Passionate about threat detection, incident response, and all things blue team.  
-📊 SIEM wizard | 💙 Defender at heart | 🚀 Always learning & sharing cyber knowledge
+🔐 Cybersecurity Analyst | Threat Hunter | Security Enthusiast
+👨‍💻 Passionate about securing systems, analyzing threats, and building a safer digital world
+🛡️ Focused on network defense, vulnerability management, and incident response
+📚 Always learning — currently diving deeper into malware analysis and cloud security
+📂 Contributor to open-source security projects and CTF challenges
+💬 Let’s connect — collaboration is key to better security
 ## 🛠️ Tools & Tech I Use
 - **SIEMs:** Splunk, QRadar, Wazuh SIEM  
 - **Threat Detection:** Snort, Suricata  
