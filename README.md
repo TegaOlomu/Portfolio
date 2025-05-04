@@ -21,6 +21,11 @@
 - Sharpening skills in malware analysis 🔬  
 - Mapping detections to MITRE ATT&CK framework  
 - Participating in CTFs and cyber blue team challenges 🎯
+## 📕 Projects
+Here are a few things I’ve worked on or am currently building:
+- 🛡️ **SOC Analysis** — Threat Detection & Incident Response Using Wireshark, pfSense, and Wazuh.
+
+  [View project](https://docs.google.com/document/d/1HmLHSrsswtHQDeUu549dVH2-WRR-29fgmo5iOn0ZW14/edit?usp=sharing)
 ## 🌐 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/otega-olomu)
 ## 📄 Resume
