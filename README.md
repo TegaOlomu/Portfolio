@@ -1,4 +1,4 @@
-## portfolio
+## tegaolomu.github.io
 ## 👋 Hey there, I'm Tega!
 ## About Me
 🔐 Cybersecurity Analyst | Threat Hunter | Security Enthusiast
